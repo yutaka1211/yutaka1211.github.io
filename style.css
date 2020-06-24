@@ -50,7 +50,7 @@ section {
 
 .hero {
   padding: 180px 10% 200px;
-  background-image: linear-gradient(-45deg, #FFC796 0%, #FF6B95 100%);
+  background-image: linear-gradient(-45deg, #000080 0%, #000000 100%);
   color: #fff;
 }
 
@@ -80,7 +80,7 @@ section {
   margin: 40px 0 0;
   font-size: 18px;
   font-weight: 900;
-  color: #FF6B95;
+  color: #000000;
   text-decoration: none;
   -webkit-transition: .5s;
   transition: .5s;
@@ -101,14 +101,14 @@ section {
   width: 8px;
   height: 8px;
   top: calc(50% - 4px);
-  border-top: 2px solid #FF6B95;
-  border-right: 2px solid #FF6B95;
+  border-top: 2px solid #000000;
+  border-right: 2px solid #000000;
   -webkit-transform: rotate(45deg);
   transform: rotate(45deg);
 }
 
 .hero a:hover {
-  background: #FF6B95;
+  background: #000000;
   color: #fff;
 }
 
@@ -325,7 +325,7 @@ section {
 
 .cta__btn a {
   display: inline-block;
-  background: #FF6B95;
+  background: #000000;
   padding: 15px 40px 15px 20px;
   margin: 0px 0 0;
   font-size: 18px;
@@ -358,13 +358,13 @@ section {
 }
 
 .cta__btn a:hover {
-  border-color: #FF6B95;
+  border-color: #000000;
   background: #fff;
-  color: #FF6B95;
+  color: #000000;
 }
 
 .cta__btn a:hover::after {
-  border-color: #FF6B95;
+  border-color: #000000;
 }
 
 footer {
